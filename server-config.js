@@ -52,7 +52,7 @@ const SERVERS = [
         id: "server1",
         name: "Server 1",
         // 👉 PASTE YOUR RAILWAY / HEROKU / RENDER URL HERE:
-        url: "https://PASTE-YOUR-SERVER-1-URL-HERE",
+        url: "https://ahmedmini-bot-production.up.railway.app/",
         limit: 50
         // (enabled — this is your primary server)
     },
@@ -67,25 +67,25 @@ const SERVERS = [
     {
         id: "server3",
         name: "Server 3",
-        url: "https://PASTE-YOUR-SERVER-3-URL-HERE",
+        url: "https://ahmedmini-bot-production.up.railway.app/",
         limit: 50
     },
     {
         id: "server4",
         name: "Server 4",
-        url: "https://PASTE-YOUR-SERVER-4-URL-HERE",
+        url: "https://ahmedmini-bot-production.up.railway.app/",
         limit: 50
     },
     {
         id: "server5",
         name: "Server 5",
-        url: "https://PASTE-YOUR-SERVER-5-URL-HERE",
+        url: "https://ahmedmini-bot-production.up.railway.app/",
         limit: 50
     },
     {
         id: "server6",
         name: "Server 6",
-        url: "https://PASTE-YOUR-SERVER-6-URL-HERE",
+        url: "https://ahmedmini-bot-production.up.railway.app/",
         limit: 50
     },
     {
