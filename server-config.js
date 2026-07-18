@@ -91,49 +91,49 @@ const SERVERS = [
     {
         id: "server7",
         name: "Server 7",
-        url: "https://PASTE-YOUR-SERVER-7-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50
     },
     {
         id: "server8",
         name: "Server 8",
-        url: "https://PASTE-YOUR-SERVER-8-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50
     },
     {
         id: "server9",
         name: "Server 9",
-        url: "https://PASTE-YOUR-SERVER-9-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50
     },
     {
         id: "server10",
         name: "Server 10",
-        url: "https://PASTE-YOUR-SERVER-10-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50
     },
     {
         id: "server11",
         name: "Server 11",
-        url: "https://PASTE-YOUR-SERVER-11-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50
     },
     {
         id: "server12",
         name: "Server 12",
-        url: "https://PASTE-YOUR-SERVER-12-URL-HERE",
+        url: "https://ahmedmini-bot-production.up.railway.app/",
         limit: 50
     },
     {
         id: "server13",
         name: "Server 13",
-        url: "https://PASTE-YOUR-SERVER-13-URL-HERE",
+        url: "https://ahmedmini-bot-production.up.railway.app/",
         limit: 50
     },
     {
         id: "server14",
         name: "Server 14",
-        url: "https://PASTE-YOUR-SERVER-14-URL-HERE",
+        url: "https://ahmedmini-bot-production.up.railway.app/",
         limit: 50
     },
     {
